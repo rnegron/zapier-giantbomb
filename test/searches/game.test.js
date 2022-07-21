@@ -8,21 +8,23 @@ const appTester = zapier.createAppTester(App);
 // read the `.env` file into the environment, if available
 zapier.tools.env.inject();
 
-describe("triggers.new_video", () => {
+describe("searches.game", () => {
   it("should run", async () => {
-    const bundle = { inputData: {}, authData: { apiKey: process.env.API_KEY } };
+    const bundle = {
+      inputData: { name: "Zelda" },
+      authData: { apiKey: process.env.API_KEY },
+    };
 
     const results = await appTester(
-      App.triggers.new_video.operation.perform,
+      App.searches.game.operation.perform,
       bundle
     );
-
     expect(results).toBeDefined();
+
     for (let result of results) {
       expect(result).toHaveProperty("id");
       expect(result).toHaveProperty("name");
-      expect(result).toHaveProperty("video_type");
-      expect(result).toHaveProperty("publish_date");
+      expect(result).toHaveProperty("date_last_updated");
     }
   });
 });

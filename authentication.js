@@ -1,7 +1,9 @@
 "use strict";
 
+const { API_BASE_URL } = require("./constants");
+
 const test = (z, bundle) =>
-  z.request({ url: "https://www.giantbomb.com/api/game/3030-19929" });
+  z.request({ url: `${API_BASE_URL}/game/3030-19929` });
 
 const handleBadResponses = (response, z, bundle) => {
   if (response.status === 401) {
@@ -41,7 +43,7 @@ module.exports = {
 
     test,
 
-    connectionLabel: (z, bundle) => bundle.authData.apiKey
+    connectionLabel: (z, bundle) => bundle.authData.apiKey,
   },
   befores: [includeApiKey, specifyFormat],
   afters: [handleBadResponses],
