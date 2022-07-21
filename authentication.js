@@ -39,7 +39,14 @@ module.exports = {
   config: {
     type: "custom",
 
-    fields: [{ key: "apiKey", label: "Giant Bomb API Key", required: true }],
+    fields: [
+      {
+        key: "apiKey",
+        label: "Giant Bomb API Key",
+        required: true,
+        helpText: "Find your API key here: https://www.giantbomb.com/api/",
+      },
+    ],
 
     test,
 
