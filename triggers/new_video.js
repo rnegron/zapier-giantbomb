@@ -4,7 +4,7 @@ const perform = async (z, bundle) => {
   const response = await z.request({
     url: `${API_BASE_URL}/videos/`,
     params: {
-      limit: 5,
+      limit: 1,
       sort: "publish_date:desc",
       field_list:
         "id,name,deck,embed_player,site_detail_url,api_detail_url,video_type,publish_date,premium,low_url,high_url,hd_url",
