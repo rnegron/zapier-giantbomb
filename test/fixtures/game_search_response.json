@@ -1,0 +1,61 @@
+{
+	"error": "OK",
+	"limit": 5,
+	"offset": 0,
+	"number_of_page_results": 5,
+	"number_of_total_results": 32,
+	"status_code": 1,
+	"results": [
+		{
+			"api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-73813\/",
+			"date_added": "2019-06-11 09:43:40",
+			"date_last_updated": "2022-03-29 08:50:48",
+			"guid": "3030-73813",
+			"id": 73813,
+			"name": "The Legend of Zelda: Breath of the Wild Sequel (Working Title)",
+			"original_release_date": null,
+			"site_detail_url": "https:\/\/www.giantbomb.com\/the-legend-of-zelda-breath-of-the-wild-sequel-work\/3030-73813\/"
+		},
+		{
+			"api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-72586\/",
+			"date_added": "2019-03-20 09:25:36",
+			"date_last_updated": "2019-07-18 14:41:25",
+			"guid": "3030-72586",
+			"id": 72586,
+			"name": "Cadence of Hyrule – Crypt of the NecroDancer Featuring The Legend of Zelda",
+			"original_release_date": "2019-06-13",
+			"site_detail_url": "https:\/\/www.giantbomb.com\/cadence-of-hyrule-crypt-of-the-necrodancer-featuri\/3030-72586\/"
+		},
+		{
+			"api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-72148\/",
+			"date_added": "2019-02-13 14:36:20",
+			"date_last_updated": "2019-10-14 16:07:32",
+			"guid": "3030-72148",
+			"id": 72148,
+			"name": "The Legend of Zelda: Link's Awakening",
+			"original_release_date": "2019-09-20",
+			"site_detail_url": "https:\/\/www.giantbomb.com\/the-legend-of-zelda-links-awakening\/3030-72148\/"
+		},
+		{
+			"api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-53074\/",
+			"date_added": "2016-03-16 18:26:33",
+			"date_last_updated": "2017-01-07 04:57:46",
+			"guid": "3030-53074",
+			"id": 53074,
+			"name": "My Nintendo Picross: The Legend of Zelda Twilight Princess",
+			"original_release_date": "2016-03-17",
+			"site_detail_url": "https:\/\/www.giantbomb.com\/my-nintendo-picross-the-legend-of-zelda-twilight-p\/3030-53074\/"
+		},
+		{
+			"api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-49994\/",
+			"date_added": "2015-06-16 09:18:45",
+			"date_last_updated": "2016-04-27 00:54:30",
+			"guid": "3030-49994",
+			"id": 49994,
+			"name": "The Legend of Zelda: Tri Force Heroes",
+			"original_release_date": "2015-10-23",
+			"site_detail_url": "https:\/\/www.giantbomb.com\/the-legend-of-zelda-tri-force-heroes\/3030-49994\/"
+		}
+	],
+	"version": "1.0"
+}

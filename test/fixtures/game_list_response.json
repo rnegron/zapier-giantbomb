@@ -1,0 +1,61 @@
+{
+	"error": "OK",
+	"limit": 5,
+	"offset": 0,
+	"number_of_page_results": 5,
+	"number_of_total_results": 81186,
+	"status_code": 1,
+	"results": [
+		{
+			"api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-86943\/",
+			"date_added": "2022-07-25 12:07:55",
+			"date_last_updated": "2022-07-25 12:08:56",
+			"guid": "3030-86943",
+			"id": 86943,
+			"name": "TouchMaster Infinity",
+			"original_release_date": null,
+			"site_detail_url": "https:\/\/www.giantbomb.com\/touchmaster-infinity\/3030-86943\/"
+		},
+		{
+			"api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-86942\/",
+			"date_added": "2022-07-25 11:28:50",
+			"date_last_updated": "2022-07-25 12:09:41",
+			"guid": "3030-86942",
+			"id": 86942,
+			"name": "Megatouch XL",
+			"original_release_date": null,
+			"site_detail_url": "https:\/\/www.giantbomb.com\/megatouch-xl\/3030-86942\/"
+		},
+		{
+			"api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-86941\/",
+			"date_added": "2022-07-25 10:55:00",
+			"date_last_updated": "2022-07-25 10:58:05",
+			"guid": "3030-86941",
+			"id": 86941,
+			"name": "Pit Boss: Megastar",
+			"original_release_date": null,
+			"site_detail_url": "https:\/\/www.giantbomb.com\/pit-boss-megastar\/3030-86941\/"
+		},
+		{
+			"api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-86940\/",
+			"date_added": "2022-07-25 10:41:17",
+			"date_last_updated": "2022-07-25 10:42:49",
+			"guid": "3030-86940",
+			"id": 86940,
+			"name": "Idol Janshi Suchi-Pai Secret Album",
+			"original_release_date": "1999-03-18",
+			"site_detail_url": "https:\/\/www.giantbomb.com\/idol-janshi-suchi-pai-secret-album\/3030-86940\/"
+		},
+		{
+			"api_detail_url": "https:\/\/www.giantbomb.com\/api\/game\/3030-86937\/",
+			"date_added": "2022-07-25 10:22:20",
+			"date_last_updated": "2022-07-25 10:24:14",
+			"guid": "3030-86937",
+			"id": 86937,
+			"name": "Kawaii Pet Shop Monogatari",
+			"original_release_date": "1999-09-23",
+			"site_detail_url": "https:\/\/www.giantbomb.com\/kawaii-pet-shop-monogatari\/3030-86937\/"
+		}
+	],
+	"version": "1.0"
+}

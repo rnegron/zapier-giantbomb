@@ -5,7 +5,7 @@ const perform = async (z, bundle) => {
     url: `${API_BASE_URL}/games/`,
     params: {
       sort: "date_added:desc",
-      limit: 20,
+      limit: 5,
       field_list: 'id,guid,name,date_added,date_last_updated,original_release_date,site_detail_url,api_detail_url',
     },
   });

@@ -9,7 +9,7 @@ const perform = async (z, bundle) => {
       sort: "date_added:desc",
       field_list:
         "id,guid,name,deck,date_added,date_last_updated,original_release_date,site_detail_url,api_detail_url",
-      limit: 20,
+      limit: 5,
     },
   });
   return response.data.results;

@@ -1,0 +1,81 @@
+{
+	"error": "OK",
+	"limit": 5,
+	"offset": 0,
+	"number_of_page_results": 5,
+	"number_of_total_results": 16351,
+	"status_code": 1,
+	"results": [
+		{
+			"api_detail_url": "https:\/\/www.giantbomb.com\/api\/video\/2300-17909\/",
+			"deck": "Contrary to popular belief, some cats are okay working on a Monday! We got some cool cats to meow through these ruins and gab about other cat stories.",
+			"embed_player": "https:\/\/www.giantbomb.com\/videos\/embed\/17909\/",
+			"id": 17909,
+			"name": "Quick Look: Stray",
+			"premium": false,
+			"publish_date": "2022-07-25 16:00:00",
+			"site_detail_url": "https:\/\/www.giantbomb.com\/videos\/stray\/2300-17909\/",
+			"video_type": "Quick Looks",
+			"low_url": "https:\/\/giantbomb.redvideo.io\/2022\/07\/25\/db9e0eee-0be5-4fd9-9d56-8d97d593b454\/vf_ql_stray_072522_540h1800k.mp4",
+			"high_url": "https:\/\/giantbomb.redvideo.io\/2022\/07\/25\/db9e0eee-0be5-4fd9-9d56-8d97d593b454\/vf_ql_stray_072522_720h3200k.mp4",
+			"hd_url": "https:\/\/giantbomb.redvideo.io\/2022\/07\/25\/db9e0eee-0be5-4fd9-9d56-8d97d593b454\/vf_ql_stray_072522_1080h5000k.mp4"
+		},
+		{
+			"api_detail_url": "https:\/\/www.giantbomb.com\/api\/video\/2300-17910\/",
+			"deck": "Jeff Grubb is here to talk about sound bars, tables, and all sorts of gizmos!",
+			"embed_player": "https:\/\/www.giantbomb.com\/videos\/embed\/17910\/",
+			"id": 17910,
+			"name": "A Very Grubby Stream II (07\/25\/22)",
+			"premium": false,
+			"publish_date": "2022-07-25 15:04:00",
+			"site_detail_url": "https:\/\/www.giantbomb.com\/videos\/a-very-grubby-stream-ii-07-25-22\/2300-17910\/",
+			"video_type": "Features",
+			"low_url": "https:\/\/giantbomb.redvideo.io\/2022\/07\/25\/da876b81-cfa7-4f6c-a2ef-39834291d602\/vf_grubbystream_072522_982_540h1800k.mp4",
+			"high_url": "https:\/\/giantbomb.redvideo.io\/2022\/07\/25\/da876b81-cfa7-4f6c-a2ef-39834291d602\/vf_grubbystream_072522_982_720h3200k.mp4",
+			"hd_url": "https:\/\/giantbomb.redvideo.io\/2022\/07\/25\/da876b81-cfa7-4f6c-a2ef-39834291d602\/vf_grubbystream_072522_982_1080h5000k.mp4"
+		},
+		{
+			"api_detail_url": "https:\/\/www.giantbomb.com\/api\/video\/2300-17908\/",
+			"deck": "Jan and Grubb take a trip out West to set up all sorts of traps involving frying pans, dynamite, and horse poop?",
+			"embed_player": "https:\/\/www.giantbomb.com\/videos\/embed\/17908\/",
+			"id": 17908,
+			"name": "Quick Look: Live a Live",
+			"premium": false,
+			"publish_date": "2022-07-25 12:12:00",
+			"site_detail_url": "https:\/\/www.giantbomb.com\/videos\/live-a-live\/2300-17908\/",
+			"video_type": "Quick Looks",
+			"low_url": "https:\/\/giantbomb.redvideo.io\/2022\/07\/25\/bbb0dd89-2f73-4cf7-a395-9ddc87fb3f9d\/vf_ql_livealive_072522_540h1800k.mp4",
+			"high_url": "https:\/\/giantbomb.redvideo.io\/2022\/07\/25\/bbb0dd89-2f73-4cf7-a395-9ddc87fb3f9d\/vf_ql_livealive_072522_720h3200k.mp4",
+			"hd_url": "https:\/\/giantbomb.redvideo.io\/2022\/07\/25\/bbb0dd89-2f73-4cf7-a395-9ddc87fb3f9d\/vf_ql_livealive_072522_1080h5000k.mp4"
+		},
+		{
+			"api_detail_url": "https:\/\/www.giantbomb.com\/api\/video\/2300-17907\/",
+			"deck": "Grubb is joined by Mike Williams from Fanbyte to discuss Black Panther, Comic-Con, and more.",
+			"embed_player": "https:\/\/www.giantbomb.com\/videos\/embed\/17907\/",
+			"id": 17907,
+			"name": "Game Mess Mornings 07\/25\/22",
+			"premium": false,
+			"publish_date": "2022-07-25 09:42:00",
+			"site_detail_url": "https:\/\/www.giantbomb.com\/videos\/game-mess-mornings-07-25-22\/2300-17907\/",
+			"video_type": "Features",
+			"low_url": "https:\/\/giantbomb.redvideo.io\/2022\/07\/25\/f17b07f9-917a-464d-b0b9-50c55de82072\/vf_gmm_072522_540h1800k.mp4",
+			"high_url": "https:\/\/giantbomb.redvideo.io\/2022\/07\/25\/f17b07f9-917a-464d-b0b9-50c55de82072\/vf_gmm_072522_720h3200k.mp4",
+			"hd_url": "https:\/\/giantbomb.redvideo.io\/2022\/07\/25\/f17b07f9-917a-464d-b0b9-50c55de82072\/vf_gmm_072522_1080h5000k.mp4"
+		},
+		{
+			"api_detail_url": "https:\/\/www.giantbomb.com\/api\/video\/2300-17906\/",
+			"deck": "BREAKING NEWS at the top of the show and the best shoulder shimmying in the biz!",
+			"embed_player": "https:\/\/www.giantbomb.com\/videos\/embed\/17906\/",
+			"id": 17906,
+			"name": "Unprofessional Fridays: UPF - 7\/22\/22",
+			"premium": false,
+			"publish_date": "2022-07-22 15:05:00",
+			"site_detail_url": "https:\/\/www.giantbomb.com\/videos\/upf-7-22-22\/2300-17906\/",
+			"video_type": "Features",
+			"low_url": "https:\/\/giantbomb.redvideo.io\/2022\/07\/22\/92d00402-6487-4640-baa0-621d44f79229\/vf_upf_072222_028shouldershimmy_540h1800k.mp4",
+			"high_url": "https:\/\/giantbomb.redvideo.io\/2022\/07\/22\/92d00402-6487-4640-baa0-621d44f79229\/vf_upf_072222_028shouldershimmy_720h3200k.mp4",
+			"hd_url": "https:\/\/giantbomb.redvideo.io\/2022\/07\/22\/92d00402-6487-4640-baa0-621d44f79229\/vf_upf_072222_028shouldershimmy_1080h5000k.mp4"
+		}
+	],
+	"version": "1.0"
+}
