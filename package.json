@@ -1,13 +1,13 @@
 {
   "name": "zapier-giantbomb",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest --testTimeout 10000"
   },
   "dependencies": {
-    "zapier-platform-core": "14.0.0"
+    "zapier-platform-core": "14.0.1"
   },
   "devDependencies": {
     "jest": "^29.5.0",
